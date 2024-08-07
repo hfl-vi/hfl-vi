@@ -4,6 +4,9 @@
 <div align="center">
 P.S My brain’s gone completely rotten
 </div> 
+<div align="center">
+<p>Goal: 1 project per week on C!</p>
+</div>
 <p>
 
        
@@ -14,9 +17,7 @@ P.S My brain’s gone completely rotten
        
 </p
 
-<div align="center">
-<p>Goal: 1 project per week on C!</p>
-</div>
+
 
 <p>
 
