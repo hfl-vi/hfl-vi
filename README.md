@@ -4,20 +4,24 @@
 <div align="center">
 P.S My brain’s gone completely rotten
 </div> 
-
-  <p>
-
-       
-  </p>
-
-    <p>
+<p>
 
        
-  </p>
+</p>
+
+<p>
+
+       
+</p
 
 <div align="center">
 <p>Goal: 1 project per week on C!</p>
 </div>
+
+<p>
+
+       
+</p>
 
 <div align="center">
 <!-- Replace with your skills -->
