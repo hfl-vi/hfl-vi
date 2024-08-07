@@ -2,7 +2,7 @@
 <p>Hello! I’m Vincent. Currently on a break from law school and diving back into the languages I dabbled in back in 2011-2014.</p>
 </div>
 <div align="center">
-<p>Current Goal: 1 project per week on C!</p>
+<p>Current Goal: 1 project per week using C!</p>
 </div>
 <p>
 
