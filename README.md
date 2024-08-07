@@ -1,3 +1,5 @@
+<p>Hi! I am Vincent. A law student in hibernation, and currently relearning the languages I studied way back in 2011. Yeah.. my brain has awfully rotted.</p>
+
 <div align="center">
     <!-- Replace with your skills -->
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
