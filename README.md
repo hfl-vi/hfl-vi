@@ -1,4 +1,6 @@
-<p>Hi! I am Vincent. A law student in hibernation, and currently relearning the languages I studied way back in 2011. Yeah.. my brain has awfully rotted.</p>
+<div align="center">
+<p>Hello! I’m Vincent. Currently on a break from law school and diving back into the languages I dabbled in back in 2011-2014. Guess my brain has awfully rotted</p>
+</div>
 
 <div align="center">
     <!-- Replace with your skills -->
