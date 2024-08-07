@@ -2,8 +2,10 @@
 <p>Hello! I’m Vincent. Currently on a break from law school and diving back into the languages I dabbled in back in 2011-2014.</p>
 </div>
 <div align="center">
-P.S my brain has awfully rotted
+P.S My brain’s gone completely rotten
 </div> 
+
+
 <div align="center">
 <!-- Replace with your skills -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
