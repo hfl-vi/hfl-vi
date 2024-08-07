@@ -10,6 +10,15 @@ P.S My brain’s gone completely rotten
        
   </p>
 
+    <p>
+
+       
+  </p>
+
+<div align="center">
+<p>Goal: 1 project per week on C!</p>
+</div>
+
 <div align="center">
 <!-- Replace with your skills -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
