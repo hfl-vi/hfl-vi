@@ -2,7 +2,7 @@
 <p>Hello! I’m Vincent. Currently on a break from law school and diving back into the languages I dabbled in back in 2011-2014.</p>
 </div>
 <div align="center">
-Guess my brain has awfully rotted
+P.S my brain has awfully rotted
 </div> 
 <div align="center">
 <!-- Replace with your skills -->
