@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-P.S My brain’s gone completely rotten
+Current goal: 1 Project per week with C!
 </div> 
 
 <div align="center">
