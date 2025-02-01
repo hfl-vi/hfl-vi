@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-Current goal: 1 Project per week with C!
+Current goal: C and more C
 </div> 
 
 <div align="center">
