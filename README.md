@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-Current goal: HS programs for work :(
+Current goal: Automation tools for work :(
 </div> 
 <p>
 
