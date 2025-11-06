@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-Current goal: Automation tools for work :(
+Current goal: tools for work :(
 </div> 
 <p>
 
